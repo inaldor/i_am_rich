@@ -1,4 +1,4 @@
-#Fri Feb 26 20:36:57 GMT 2021
+#Sun Feb 28 22:34:46 GMT 2021
 base.0=/Users/inaldoribeiro/AndroidStudioProjects/i_am_rich/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
