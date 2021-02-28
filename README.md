@@ -10,9 +10,9 @@ This app is the result of my studies when developing in Flutter for iOS and Andr
 
 ## Pictures
 
-<img src="https://github.com/inaldor/AlamoJson/blob/master/app-images/Results.png" width=300>
-<img src="https://github.com/inaldor/AlamoJson/blob/master/app-images/Results2.png" width=300>
+<img src="https://github.com/inaldor/i_am_rich/blob/master/app-images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-02-28%20at%2022.30.53.png" width=300>
+<img src="https://github.com/inaldor/i_am_rich/blob/master/app-images/Screenshot_1614551762.png" width=300>
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/inaldor/AlamoJson/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/inaldor/i_am_rich/blob/master/LICENSE)
